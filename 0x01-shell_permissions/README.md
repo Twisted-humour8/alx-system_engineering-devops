@@ -16,3 +16,6 @@
 
 	Task 4. Empty!
 		Create an empty file.
+	
+	Task 5. Execute
+		Add execute permission to owner of a 			file.
