@@ -64,4 +64,8 @@
 	-in working directory
 	-is a symbolic link.
 
+	Task 16. If only
+		Change owner of file when owned by other
+		user. File in working directory.
+
 	
