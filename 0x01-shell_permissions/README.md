@@ -52,4 +52,8 @@
 		Create a dir with permissions in working
 		dir.
 
+	Task 13. Change group
+		Change group owner of file, command - 
+		new owner - file.
+
 
