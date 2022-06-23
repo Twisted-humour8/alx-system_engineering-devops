@@ -5,3 +5,7 @@
 
 	Task 1. Who am i
 		A script that prints username of current		user.
+
+	Task 2. Groups
+		A script that prints all groups the 
+		current user is part of.
