@@ -28,3 +28,9 @@
 	Task 7. Everybody!
 		Adds execute permission to owner, 
 		group owner and others.
+
+	Task 8. James Bond
+		Set permission of file with:
+			owner: none
+			group: none
+			other: all permissions
