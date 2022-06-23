@@ -19,3 +19,8 @@
 	
 	Task 5. Execute
 		Add execute permission to owner of a 			file.
+
+	Task 6. Multiple permissions
+		Adds execute permission to owner and 
+		group owner, and read permission to
+		others.
