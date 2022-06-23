@@ -9,3 +9,7 @@
 	Task 2. Groups
 		A script that prints all groups the 
 		current user is part of.
+
+	Task 3. New owner
+		Change current owner of a file to new
+		user.
