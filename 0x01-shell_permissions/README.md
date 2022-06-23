@@ -34,3 +34,9 @@
 			owner: none
 			group: none
 			other: all permissions
+
+	Task 9. John Doe
+		Mode for the following file:
+	-rwxr-x-wx 1 julian julian 23 sep 20 14:25 hello
+
+
