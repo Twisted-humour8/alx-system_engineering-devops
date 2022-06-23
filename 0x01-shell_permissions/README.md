@@ -68,4 +68,8 @@
 		Change owner of file when owned by other
 		user. File in working directory.
 
+	Task 17. Star Wars
+		A script to play the StarWars IV episode
+		in terminal.
+
 	
