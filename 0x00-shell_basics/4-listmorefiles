@@ -1,3 +1,2 @@
 #!/bin/bash
 ls -1an
-Display the current directory contents, including hidden files (starting with .) using the long format
