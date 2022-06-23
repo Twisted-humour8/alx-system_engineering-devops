@@ -48,4 +48,8 @@
 		the current dir for owner, group owner,
 		all others. Regular files must not change.
 
+	Task 12. More directories
+		Create a dir with permissions in working
+		dir.
+
 
