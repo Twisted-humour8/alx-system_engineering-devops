@@ -57,6 +57,11 @@
 		new owner - file.
 
 	Task 14. Owner and group
-		Change owner and group for all files and 		directories in working directory.
+		Change owner and group for all files and 		 directories in working directory.
 
+	Task 15. Symbolic links
+		Change owner and staff for file:
+	-in working directory
+	-is a symbolic link.
 
+	
