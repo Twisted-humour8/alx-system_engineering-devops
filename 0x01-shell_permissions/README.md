@@ -56,4 +56,7 @@
 		Change group owner of file, command - 
 		new owner - file.
 
+	Task 14. Owner and group
+		Change owner and group for all files and 		directories in working directory.
+
 
