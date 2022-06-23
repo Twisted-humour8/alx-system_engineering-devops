@@ -42,3 +42,10 @@
 	Task 10. Look in the mirror
 		Set the mode of a file1 the same as
 		mode of file2 in working directory.
+
+	Task 11. Directories
+		Add execute permission to all subdir of
+		the current dir for owner, group owner,
+		all others. Regular files must not change.
+
+
