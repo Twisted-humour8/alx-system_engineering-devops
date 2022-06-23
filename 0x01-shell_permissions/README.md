@@ -24,3 +24,7 @@
 		Adds execute permission to owner and 
 		group owner, and read permission to
 		others.
+
+	Task 7. Everybody!
+		Adds execute permission to owner, 
+		group owner and others.
