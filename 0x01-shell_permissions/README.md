@@ -13,3 +13,6 @@
 	Task 3. New owner
 		Change current owner of a file to new
 		user.
+
+	Task 4. Empty!
+		Create an empty file.
