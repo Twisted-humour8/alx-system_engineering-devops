@@ -39,4 +39,6 @@
 		Mode for the following file:
 	-rwxr-x-wx 1 julian julian 23 sep 20 14:25 hello
 
-
+	Task 10. Look in the mirror
+		Set the mode of a file1 the same as
+		mode of file2 in working directory.
