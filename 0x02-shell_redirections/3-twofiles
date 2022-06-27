@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 | less "etc/*"
+cat /etc/passwd /etc/hosts
