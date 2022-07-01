@@ -68,4 +68,6 @@
 
 	Task 22. DJ Cut Killer
 		Display all users and their home dir, sorted by users based on a file.
-	
+
+	Task 23. Empty casks make the most noise
+		Find empty files and dir.	
