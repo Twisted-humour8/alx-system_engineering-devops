@@ -75,4 +75,7 @@
 	Task 24. A gif is worth ten thousand words
 		Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
 	Task 25. Acrostic
-		Decoding acrostics that use first letter of each line.	
+		Decoding acrostics that use first letter of each line.
+
+	Task 26. The biggest fan
+		Parses web logs in TSV format as input and display hosts or IP addresses.	
