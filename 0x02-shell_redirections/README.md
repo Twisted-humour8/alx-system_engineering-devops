@@ -70,4 +70,9 @@
 		Display all users and their home dir, sorted by users based on a file.
 
 	Task 23. Empty casks make the most noise
-		Find empty files and dir.	
+		Find empty files and dir.
+
+	Task 24. A gif is worth ten thousand words
+		Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+	Task 25. Acrostic
+		Decoding acrostics that use first letter of each line.	
