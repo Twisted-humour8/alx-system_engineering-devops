@@ -1,10 +1,10 @@
 # 0x01. Shell, permissions
 	
 	Task 0. My name is Betty
-		A script to switch the current user to t		he user betty.
+		A script to switch the current user to the user betty.
 
 	Task 1. Who am i
-		A script that prints username of current		user.
+		A script that prints username of currentuser.
 
 	Task 2. Groups
 		A script that prints all groups the 
@@ -18,7 +18,7 @@
 		Create an empty file.
 	
 	Task 5. Execute
-		Add execute permission to owner of a 			file.
+		Add execute permission to owner of a file.
 
 	Task 6. Multiple permissions
 		Adds execute permission to owner and 
@@ -57,7 +57,7 @@
 		new owner - file.
 
 	Task 14. Owner and group
-		Change owner and group for all files and 		 directories in working directory.
+		Change owner and group for all files and directories in working directory.
 
 	Task 15. Symbolic links
 		Change owner and staff for file:
