@@ -1,0 +1,2 @@
+#!/bin/bash
+print (water+stir)f | print -d | wc -l
